@@ -11,7 +11,7 @@
 
 <br></br>
 
-- 🌱 I’m currently learning **CS,Spring,NestJS,MSA,CI/CD,TDD**
+- 🌱 I’m currently learning ** CS, Spring, NestJS, MSA, CI/CD, TDD**
 
 - 📫 How to reach me **gudwnsdl8@naver.com**
 
@@ -19,7 +19,7 @@
 
 <br></br>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
