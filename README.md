@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm KIM HYUNG JUN</h1>
+<h1>Hi 👋, I'm KIM HYUNG JUN</h1>
 
 <br></br>
 
-<h3 align="center">A passionate Backend Java and NodeJs Developer</h3>
+<h3>A passionate Backend Java and NodeJs Developer</h3>
 
 <br></br>
 
